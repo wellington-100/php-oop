@@ -46,7 +46,7 @@ $link1 = new Link("php manual", "https://php.net");
 if (isset($link->url)) {
     print("The URL of the link1 is set.\n");
 } else {
-    print("The URL of the link1 is set.\n");
+    print("The URL of the link1 isnt set.\n");
 }
 ?>
 

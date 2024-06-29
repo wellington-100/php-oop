@@ -65,3 +65,12 @@ HW2:
     in Length class, add encapsulation for "value" allow only >=0   +
 
 HW3: implement __isset() so it returns true only if link has a non-empty text and url
+
+///////////////////
+
+# INHERITANCE
+    > DRY - Don't Reapeat Yourself
+    > Families of Classes
+    > Polymorphism
+    > Abstraction
+    > SOLID
