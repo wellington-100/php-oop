@@ -12,6 +12,7 @@
     > properties
     > acces modifiers
     > magic methods
+    > encapsulation
 
     > abstraction
     > inheritance
@@ -74,3 +75,9 @@ HW3: implement __isset() so it returns true only if link has a non-empty text an
     > Polymorphism
     > Abstraction
     > SOLID
+
+############################################
+
+
+
+
