@@ -1,4 +1,5 @@
 <?php
+    namespace Length;
     enum Units {
         case INCH;
         case FOOT;
